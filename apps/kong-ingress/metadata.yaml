@@ -1,0 +1,5 @@
+---
+chartRegistry: https://charts.konghq.com
+chartName: ingress
+chartVersion: 0.22.0
+artifactName: ingress
